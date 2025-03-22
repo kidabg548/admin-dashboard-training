@@ -1,6 +1,6 @@
 {
   "name": "admin-dashboard",
-  "homepage": "https://kedistS.github.io/workflow-test-training",
+  "homepage": "https://kidabg548.github.io/admin-dashboard-training",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -42,11 +42,11 @@
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
-    "@babel/preset-env": "^7.25.4",
-    "@babel/preset-react": "^7.24.7",
+    "@babel/preset-env": "^7.26.9",
+    "@babel/preset-react": "^7.26.3",
     "autoprefixer": "^10.4.20",
     "babel-jest": "^29.7.0",
-    "gh-pages": "^6.1.1",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.4.41",
     "tailwindcss": "^3.4.10"
   },
